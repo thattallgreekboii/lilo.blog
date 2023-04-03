@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/sera-pfp.jpg"
-logo = "/media/sera-icon.jpg"
-image = "/media/sera-2.jpg"
+icon = "/media/sera-icon.jpg"
+logo = "/media/sera-pfp.jpg"
+image = "/media/seraphine_banner-1.webp"
 color = "#19DCB3"
 +++
