@@ -2,5 +2,5 @@
 headless = true
 name = "Theologos Chiotelis"
 image = ""
-url = "/about/"
+url = "www.tiktok.com/@thattallgreekboii"
 +++
