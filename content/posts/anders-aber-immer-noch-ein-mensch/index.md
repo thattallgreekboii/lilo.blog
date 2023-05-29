@@ -1,7 +1,7 @@
 +++
 title = "Anders, aber immer noch ein Mensch"
 date = "2023-05-29"
-draft = true
+draft = false
 pinned = false
 tags = ["#deutsch", "#reportage"]
 +++
