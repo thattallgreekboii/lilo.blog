@@ -11,7 +11,7 @@ tags = ["#deutsch", "#reportage"]
 
 {{</lead>}}
 
-Eine Reportage von T.Battilana und T.Chiotelis
+*Eine Reportage von T.Battilana und T.Chiotelis*
 
 Marcus, unser Betroffene, ist heute 48 Jahre alt und lebt in der Schweiz nahe an Bern. Schon mit jungem Alter wurde er mit Schizophrenie diagnostiziert. Er ist vielleicht anders, aber ein Mensch ist er immer noch!
 
@@ -26,8 +26,6 @@ Drogen, davon vor allem Cannabis, können das Risiko einer Schizophrenie-Erkrank
 Es könnte der grosse Stress und Angst von der Schule und von der Arbeit sein, es könnte aber auch einfach sein, weil es schon in der Familie manche hatten. Es gibt viele Wege, wie man eine Schizophrenie erhalten kann. Aber allgemein ist das alles ein Prozess im Gehirn, der von verschiedenen Faktoren ausgelöst wird. Das Gehirn besitzt tausende, sogar Millionen an Netzwerke von verschiedenen Neuronen, die alle einen eigenen Zweck erfüllen. Eins ist zum Beispiel für das Regulieren der Emotionen zuständig, das andere für die Sprache usw. Eine Schizophrenie kann passieren, wenn einer dieser Netzwerke überstimuliert wird. Wenn ein Netzwerk zu fest durchblutet wird, oder einen zu grossen Sauerstoffgehalt hat, wird das Membranpotenzial einer Hirnhälfte stark erhöht, und ergibt eine ungleiche Polarität zwischen den zwei Hirnhälften. Diese Überstimulierung kann dazu führen, dass dieses spezifische Netzwerk eine seiner Verantwortungen nicht erfüllt, oder sogar neue erfindet. Eine andere Ursache dafür kann eine ungleichmäßige Verteilung an den benötigten Botenstoffe des Netzwerks sein. Daraus entstehen Positiv- und Negativsymptome.
 
 > *"Unser Gehirn ist komplex und schwierig zu verstehen. Obwohl man schon sehr viel über Ursachen und involvierte Netzwerke wei*ß*, ist vieles noch unverstanden und Gegenstand von spezialisierter Forschung." -Dr. Tobias Bracht*
-
-
 
 # Der Effekt
 
