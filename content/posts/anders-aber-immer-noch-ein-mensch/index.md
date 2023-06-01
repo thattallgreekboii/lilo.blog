@@ -2,12 +2,12 @@
 title = "Anders, aber immer noch ein Mensch"
 date = "2023-05-29"
 draft = false
-pinned = false
-tags = ["#deutsch", "#reportage"]
+pinned = true
+tags = ["Deutsch", "Reportage"]
 +++
 {{<lead>}}
 
-## *Schizophrenie ist eine psychische Erkrankung, die etwa 1% der ganzen Weltbevölkerung betrifft. Schizophrenie ahnt sehr einer typischen Psychose, jedoch ist sie viel umfangreicher und ein sehr grob studiertes Thema. In dieser Reportage fokussieren wir und auf das Allgemeine.*
+## *Schizophrenie ist eine psychische Erkrankung, die etwa 1% der ganzen Weltbevölkerung betrifft. Schizophrenie ahnt sehr einer typischen Psychose, jedoch ist sie viel umfangreicher und ein sehr grob studiertes Thema. In dieser Reportage fokussieren wir uns auf das Allgemeine.*
 
 {{</lead>}}
 
