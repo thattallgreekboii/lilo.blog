@@ -2,7 +2,7 @@
 title = "Anders, aber immer noch ein Mensch"
 date = "2023-05-29"
 draft = true
-pinned = true
+pinned = false
 tags = ["Deutsch", "Reportage"]
 +++
 {{<lead>}}
@@ -59,4 +59,4 @@ Die transkranielle Magnetstimulation ist eine der wohl berühmtesten Behandlungs
 
 ![Abb. 3: Verwendetes Gerät zur transkranieller Magnetstimulation. Quelle: UPD Bern, selbst aufgenommen, Theologos.](image-2-min.png)
 
-Dr. Tobias Bracht kannte sich mit dem Thema gut aus, und mithilfe eines Experten haben sie uns das Thema sehr gut erklären können. Etwas Lustiges, was Dr. Bracht und zeigte, was man mit dem Gerät tun kann, ist eine Bewegung im Unterarm zu zwingen, indem man die richtige Stelle des Gehirns sehr kurz stimuliert. Natürlich ergibt sich kein langfristiger Effekt, wenn man es nur sehr kurz macht. Für Schizophrenie-Patienten ist es häufig empfohlen, eine repetitive TMS durchzuführen, heißt, man soll sie immer und immer machen, damit es einen permanenten Effekt hat.
+Dr. Tobias Bracht kannte sich mit dem Thema gut aus, und mithilfe eines Experten haben sie uns das Thema sehr gut erklären können. Etwas Lustiges, was Dr. Bracht uns zeigte, was man mit dem Gerät tun kann, ist eine Bewegung im Unterarm zu zwingen, indem man die richtige Stelle des Gehirns sehr kurz stimuliert. Natürlich ergibt sich kein langfristiger Effekt, wenn man es nur sehr kurz macht. Für Schizophrenie-Patienten ist es häufig empfohlen, viele TMS Pulse durchzuführen, heißt, man soll sie immer und immer machen, damit es einen permanenten Effekt hat.
