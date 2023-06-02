@@ -73,4 +73,4 @@ Dr. Tobias Bracht kannte sich mit dem Thema gut aus, und mithilfe eines Experten
 
 Als Fazit wollen wir festhalten, dass Schizophrenie eine Krankheit mit vielen Gesichtern ist, nicht nur Stimmen hören und wir die Menschen, die davon betroffen sind, normal und mit Rücksichtnahme behandeln sollten.
 
-![Abb. 4 Haupteingang UPD Bern. Quelle: selbst aufgenommen, Theologos](image-min.png)
+![Abb. 4: Haupteingang UPD Bern. Quelle: selbst aufgenommen, Theologos](image-min.png)
